@@ -18,7 +18,7 @@ error[E0277]: the trait bound `fn() -> impl Future<Output = &'static str> {index
 ...
 ```
 
-3. You comment this code in `src/lib.rs` and the error is gone, and you can see the `Hello, World!` when open
+3. You can comment this code in `src/lib.rs` and the error is gone, and you can see the `Hello, World!` text when open
    `http://localhost:8787` in your browser
 
 ```rust
