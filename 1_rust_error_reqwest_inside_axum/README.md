@@ -28,4 +28,4 @@ let _res = reqwest::get("https://httpbin.org/ip").await.unwrap();
 
 # Solution
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
