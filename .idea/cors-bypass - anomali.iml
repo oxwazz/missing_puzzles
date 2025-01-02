@@ -2,7 +2,8 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_rust_error_reqwest_inside_axum/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/1_rust_error_reqwest_inside_axum/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -1,8 +1,8 @@
 # Problem
 
-1. run command `npx wrangler dev` in your terminal
+1. Run command `npx wrangler dev` in your terminal
 
-2. see error in terminal, must be like this:
+2. See error in terminal. Must be like this:
 
 ```shell
 ...
@@ -18,8 +18,8 @@ error[E0277]: the trait bound `fn() -> impl Future<Output = &'static str> {index
 ...
 ```
 
-3. if you comment this code in `src/lib.rs` errors gone, and you can see the `Hello, World!`  when open
-   `http://localhost:8787`
+3. You comment this code in `src/lib.rs` and the error is gone, and you can see the `Hello, World!` when open
+   `http://localhost:8787` in your browser
 
 ```rust
 // comment this code on line 22

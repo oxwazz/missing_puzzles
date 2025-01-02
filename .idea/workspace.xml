@@ -7,11 +7,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="043d6688-c3f1-443c-9311-07446a31f6d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wrangler.toml" beforeDir="false" afterPath="$PROJECT_DIR$/wrangler.toml" afterDir="false" />
-    </list>
+    <list default="true" id="043d6688-c3f1-443c-9311-07446a31f6d6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +54,7 @@
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/oxwazz/0XWAZZ/CODING/PERSONAL/cors-bypass - anomali",
+    "last_opened_file_path": "/home/oxwazz/0XWAZZ/CODING/PERSONAL/missing_puzzles",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +67,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1_rust_error_reqwest_inside_axum" />
+    </key>
+  </component>
   <component name="RsExternalLinterProjectSettings">
     <option name="runOnTheFly" value="true" />
     <option name="tool" value="Clippy" />
@@ -108,6 +109,7 @@
       <updated>1735609476647</updated>
       <workItem from="1735609477847" duration="9076000" />
       <workItem from="1735852814471" duration="856000" />
+      <workItem from="1735853758074" duration="1469000" />
     </task>
     <servers />
   </component>
