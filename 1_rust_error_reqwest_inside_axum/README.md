@@ -2,7 +2,7 @@
 
 1. Run command `npx wrangler dev` in your terminal
 
-2. See error in terminal. Must be like this:
+2. See the error in terminal. Must be like this:
 
 ```shell
 ...

@@ -26,12 +26,12 @@
     &quot;assignee&quot;: &quot;oxwazz&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:oxwazz/missing_puzzles.git",
-    "accountId": "d1e48f05-d03c-4eb1-9561-292e10c58c83"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:oxwazz/missing_puzzles.git&quot;,
+    &quot;accountId&quot;: &quot;d1e48f05-d03c-4eb1-9561-292e10c58c83&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="QIglNpzM" />
   </component>
@@ -111,6 +111,7 @@
       <workItem from="1735852814471" duration="856000" />
       <workItem from="1735853758074" duration="1469000" />
       <workItem from="1735855496808" duration="133000" />
+      <workItem from="1735855767112" duration="447000" />
     </task>
     <task id="LOCAL-00001" summary="cors: update README.md">
       <option name="closed" value="true" />
@@ -120,7 +121,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735855608861</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cors: update README.md">
+      <option name="closed" value="true" />
+      <created>1735855795206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735855795206</updated>
+    </task>
+    <task id="LOCAL-00003" summary="cors: update README.md">
+      <option name="closed" value="true" />
+      <created>1735856207227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735856207227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
